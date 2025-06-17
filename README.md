@@ -75,4 +75,4 @@ To get a local copy up and running, follow these simple steps.
 
 You can view the live deployed version of our project here:
 
-**[https://your-netlify-url.netlify.app](https://your-netlify-url.netlify.app)** *(Replace this with your actual Netlify link!)*
+**[https://your-netlify-url.netlify.app](https://your-netlify-url.netlify.app)** *(https://healthbuddyplus.netlify.app/)*
