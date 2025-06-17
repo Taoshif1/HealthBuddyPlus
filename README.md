@@ -1,9 +1,10 @@
 # HealthBuddy+ | Your All-in-One Wellness Companion
-![ChatGPT Image Jun 13, 2025, 04_31_05 PM](https://github.com/user-attachments/assets/10e8b469-5199-45d3-8cab-a6bd178da2ca)
+---
+![ChatGPT Image Jun 13, 2025, 04_31_05 PM](https://github.com/user-attachments/assets/4d0ed06f-10d9-4013-9525-153a597de040)
+---
+HealthBuddy+ is a modern, all-in-one wellness application designed to combat the fragmentation of health management for Bolt Hackathon 2025!. It brings together mood tracking, nutrition planning, community fitness challenges, and personal care — all in a beautiful UI! 🌟
 
-**HealthBuddy+** is a modern, all-in-one wellness application designed to combat the fragmentation of health management **for Bolt Hackathon 2025!**. It brings together mood tracking, nutrition planning, community fitness challenges and personal care into a single, cohesive and user-friendly experience  — all in a beautiful UI! 🌟
-
-This project was built for the **Beginner Division** of the **Hack4Health Hackathon**.
+This project was built by Gazi Taoshif (CSE, EWU) — a solo project for the Beginner Division of Hack4Health by Bolt (Devpost). 🔥
 
 ---
 
