@@ -245,7 +245,7 @@ const MoodTracker: React.FC = () => {
                     const height = `${(entry.mood / 5) * 100}%`;
                     return (
                         <div key={index} className="flex-1 flex flex-col items-center gap-2 group">
-                             <motion.div 
+                              <motion.div 
                                 className="w-full rounded-full bg-gradient-to-t from-primary-200 to-primary-400" 
                                 style={{ height: 0 }}
                                 animate={{ height }}

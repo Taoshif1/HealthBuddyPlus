@@ -46,7 +46,7 @@ const Navigation: React.FC = () => {
           {navItems.map((item) => {
             const Icon = item.icon;
             return (
-              // Replace button with NavLink
+              // Replaced button with NavLink
               <NavLink
                 key={item.id}
                 to={item.path}

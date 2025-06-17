@@ -231,7 +231,7 @@ const CareHub: React.FC = () => {
                       <motion.button onClick={() => handleTakeMedication(med.id)} className="p-3 rounded-full" whileTap={{scale: 1.2}}>
                         <AnimatePresence mode="wait">
                           <motion.div key={med.takenToday ? 'taken' : 'not_taken'} initial={{scale:0, rotate: -90}} animate={{scale:1, rotate: 0}} exit={{scale:0, rotate: 90}}>
-                           {med.takenToday ? <CheckCircle2 className="w-8 h-8 text-green-500"/> : <div className="w-8 h-8 rounded-full border-2 border-neutral-300 bg-neutral-50 hover:bg-neutral-100"/>}
+                            {med.takenToday ? <CheckCircle2 className="w-8 h-8 text-green-500"/> : <div className="w-8 h-8 rounded-full border-2 border-neutral-300 bg-neutral-50 hover:bg-neutral-100"/>}
                           </motion.div>
                         </AnimatePresence>
                       </motion.button>
@@ -257,9 +257,9 @@ const CareHub: React.FC = () => {
             </div>
           )}
           {activeTab === 'notes' && (
-             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
               {careNotes.map((note, index) => (
-                 <motion.div key={note.id} className="bg-white rounded-2xl shadow-lg border p-6 flex flex-col" initial={{opacity:0, scale:0.9}} animate={{opacity:1, scale:1}} transition={{delay: index*0.1}}>
+                  <motion.div key={note.id} className="bg-white rounded-2xl shadow-lg border p-6 flex flex-col" initial={{opacity:0, scale:0.9}} animate={{opacity:1, scale:1}} transition={{delay: index*0.1}}>
                     <div className="flex justify-between items-start mb-2">
                         <h3 className="text-lg font-bold text-neutral-800">{note.title}</h3>
                         <span className="px-2 py-1 text-xs font-medium rounded-full bg-blue-50 text-blue-700">{note.category}</span>
@@ -269,7 +269,7 @@ const CareHub: React.FC = () => {
                         <span>By: {note.author}</span>
                         <span>{format(parseISO(note.date), 'PP')}</span>
                     </div>
-                 </motion.div>
+                  </motion.div>
               ))}
             </div>
           )}
@@ -293,16 +293,16 @@ const CareHub: React.FC = () => {
             <div className="bg-white rounded-3xl shadow-2xl border p-8 max-w-2xl mx-auto">
               <AnimatePresence mode="wait">
                 {showResult ? (
-                   <motion.div key="result" initial={{opacity:0, scale:0.8}} animate={{opacity:1, scale:1}} className="text-center">
-                     <h2 className="text-3xl font-bold text-neutral-800">Quiz Complete!</h2>
-                     <div className="my-6 text-6xl">{score >= 3 ? '🎉' : '👍'}</div>
-                     <p className="text-lg text-neutral-600">You scored</p>
-                     <p className="text-5xl font-bold text-primary-600 my-2">{score} / {quizQuestions.length}</p>
-                     <p className="text-neutral-500 mb-8">{score >= 3 ? "Excellent work! You're a first-aid star!" : "Great effort! Every bit of knowledge helps."}</p>
-                     <motion.button onClick={restartQuiz} className="px-8 py-3 bg-primary-500 text-white font-semibold rounded-lg shadow-md hover:bg-primary-600 transition-colors" whileHover={{scale:1.05}} whileTap={{scale:0.95}}>
+                    <motion.div key="result" initial={{opacity:0, scale:0.8}} animate={{opacity:1, scale:1}} className="text-center">
+                      <h2 className="text-3xl font-bold text-neutral-800">Quiz Complete!</h2>
+                      <div className="my-6 text-6xl">{score >= 3 ? '🎉' : '👍'}</div>
+                      <p className="text-lg text-neutral-600">You scored</p>
+                      <p className="text-5xl font-bold text-primary-600 my-2">{score} / {quizQuestions.length}</p>
+                      <p className="text-neutral-500 mb-8">{score >= 3 ? "Excellent work! You're a first-aid star!" : "Great effort! Every bit of knowledge helps."}</p>
+                      <motion.button onClick={restartQuiz} className="px-8 py-3 bg-primary-500 text-white font-semibold rounded-lg shadow-md hover:bg-primary-600 transition-colors" whileHover={{scale:1.05}} whileTap={{scale:0.95}}>
                         Try Again
-                     </motion.button>
-                   </motion.div>
+                      </motion.button>
+                    </motion.div>
                 ) : (
                     <motion.div key={currentQuestionIndex} initial={{opacity:0, x:50}} animate={{opacity:1, x:0}} exit={{opacity:0, x:-50}} transition={{duration:0.3}}>
                         <div className="mb-6">

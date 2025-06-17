@@ -4,7 +4,7 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
 
-// 1. Import all of our page components
+// 1. Imported all of our page components
 
 import Navigation from './components/Navigation';
 import Dashboard from './components/Dashboard';

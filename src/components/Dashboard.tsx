@@ -19,7 +19,7 @@ import {
 
 // --- SUB-COMPONENTS ---
 const AnimatedNumber = ({ value, isFloat = false }: { value: number, isFloat?: boolean }) => {
-    // This is a more robust version of the animated number that is less likely to cause errors.
+    // This is a more robust version of the animated number
     const spring = useSpring(value, { mass: 0.8, stiffness: 100, damping: 20 });
     const [display, setDisplay] = useState(value);
 

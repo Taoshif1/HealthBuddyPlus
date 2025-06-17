@@ -4,24 +4,24 @@ import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence, useSpring } from 'framer-motion';
 import { format, parseISO } from 'date-fns';
 import { 
-  User, 
-  Settings, 
-  Bell, 
-  Shield, 
-  Heart, 
-  Activity,
-  Award,
-  Edit3,
-  Save,
-  Camera,
-  Trash2,
-  AlertTriangle,
-  LogOut,
-  MessageSquare,
-  Zap,
-  Target,
-  CheckCircle,
-  Users // <--- BUG FIX #1: Re-added the missing 'Users' icon.
+User, 
+Settings, 
+Bell, 
+Shield, 
+Heart, 
+Activity,
+Award,
+Edit3,
+Save,
+Camera,
+Trash2,
+AlertTriangle,
+LogOut,
+MessageSquare,
+Zap,
+Target,
+CheckCircle,
+Users // <--- Added 'Users' icon.
 } from 'lucide-react';
 
 // --- TYPE DEFINITIONS ---
