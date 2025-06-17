@@ -1,6 +1,6 @@
 # HealthBuddy+ | Your All-in-One Wellness Companion
 
-![HealthBuddy+ Dashboard](https://i.imgur.com/uGZgM8L.png)
+![HealthBuddy+ Dashboard](https://images.pexels.com/photos/7937363/pexels-photo-7937363.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 **HealthBuddy+** is a modern, all-in-one wellness application designed to combat the fragmentation of health management **for Bolt Hackathon 2025!**. It brings together mood tracking, nutrition planning, community fitness challenges and personal care into a single, cohesive and user-friendly experience  — all in a beautiful UI! 🌟
 
