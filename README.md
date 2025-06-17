@@ -4,7 +4,7 @@
 ---
 **HealthBuddy+** is a modern, all-in-one wellness application designed to combat the fragmentation of health management for **Bolt Hackathon 2025!** It brings together **mood tracking, nutrition planning, community fitness challenges and personal care — all in a beautiful UI!** 🌟
 
-**This project was built by Gazi Taoshif a solo project for the Beginner Division of Hack4Health by Bolt (Devpost)** 🔥
+**This project was built by Gazi Taoshif — a solo project for the Beginner Division of Hack4Health by Bolt (Devpost)** 🔥
 
 ---
 
