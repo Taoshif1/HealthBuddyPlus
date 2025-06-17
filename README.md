@@ -76,3 +76,17 @@ To get a local copy up and running, follow these simple steps.
 You can view the live deployed version of our project here:
 
 **[https://healthbuddyplus.netlify.app/](https://healthbuddyplus.netlify.app/)**
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+---
+
+## ✍️ Author
+
+* **Gazi Taoshif** - *EWU CSE*
+
+---
