@@ -78,10 +78,7 @@ You can view the live deployed version of our project here:
 
 **[https://healthbuddyplus.netlify.app/](https://healthbuddyplus.netlify.app/)**
 
----
-
-🎬 YT Video
-Click - [Health Buddy+ Video](https://youtu.be/r6qTsaFrNWk?si=n4vQ3AWLEhsl-AFx)
+🎬 YT Video - [Health Buddy+ Video](https://youtu.be/r6qTsaFrNWk?si=n4vQ3AWLEhsl-AFx)
 
 ---
 
