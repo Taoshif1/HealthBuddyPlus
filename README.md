@@ -2,7 +2,7 @@
 
 ![HealthBuddy+ Dashboard](https://i.imgur.com/uGZgM8L.png)
 
-**HealthBuddy+** is a modern, all-in-one wellness application designed to combat the fragmentation of health management. It brings together mood tracking, nutrition planning, community fitness challenges, and personal care into a single, cohesive, and user-friendly experience.
+**HealthBuddy+** is a modern, all-in-one wellness application designed to combat the fragmentation of health management **for Bolt Hackathon 2025!**. It brings together mood tracking, nutrition planning, community fitness challenges and personal care into a single, cohesive and user-friendly experience  — all in a beautiful UI! 🌟
 
 This project was built for the **Beginner Division** of the **Hack4Health Hackathon**.
 
@@ -20,12 +20,12 @@ HealthBuddy+ provides a unified and proactive approach to wellness. Instead of j
 
 ## ✨ Core Features
 
-* **Dynamic Dashboard:** A beautiful and personalized landing page that provides an at-a-glance overview of your daily stats, achievements, and quick actions.
-* **Interactive Mood Garden:** A unique and visually rewarding way to track your daily mood. Watch your digital garden flourish as you nurture your mental well-being.
-* **AI-Assisted Meal Planner:** Get smart recipe suggestions based on ingredients you have on hand, save your favorite meals, and easily build out your nutrition plan.
-* **Comprehensive Care Hub:** Manage medical appointments, track medication adherence with an interactive checklist, and empower yourself with our built-in First-Aid Guide.
-* **Community Quest:** Stay motivated by joining group challenges like the "8-Hour Sleep Challenge," share your progress on the community wall, and earn badges for your accomplishments.
-* **Personalized Profile:** A detailed profile page that celebrates your journey by visualizing your stats, earned badges, and overall progress.
+* ✅ **Dynamic Dashboard:** A beautiful and personalized landing page that provides an at-a-glance overview of your daily stats, achievements, and quick actions.
+* ✅ **Interactive Mood Garden:** A unique and visually rewarding way to track your daily mood. Watch your digital garden flourish as you nurture your mental well-being.
+* ✅ **AI-Assisted Meal Planner:** Get smart recipe suggestions based on ingredients you have on hand, save your favorite meals, and easily build out your nutrition plan.
+* ✅ **Comprehensive Care Hub:** Manage medical appointments, track medication adherence with an interactive checklist, and empower yourself with our built-in First-Aid Guide.
+* ✅ **Community Quest:** Stay motivated by joining group challenges like the "8-Hour Sleep Challenge," share your progress on the community wall, and earn badges for your accomplishments.
+* ✅ **Personalized Profile:** A detailed profile page that celebrates your journey by visualizing your stats, earned badges, and overall progress.
 
 ---
 
@@ -37,6 +37,7 @@ HealthBuddy+ provides a unified and proactive approach to wellness. Instead of j
 * **Animation:** Framer Motion
 * **Icons:** Lucide React
 * **Deployment:** Netlify
+* **Version Control:** Git & GitHub
 
 ---
 
