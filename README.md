@@ -1,6 +1,5 @@
 # HealthBuddy+ | Your All-in-One Wellness Companion
-
-![HealthBuddy+ Dashboard](https://images.pexels.com/photos/7937363/pexels-photo-7937363.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![ChatGPT Image Jun 13, 2025, 04_31_05 PM](https://github.com/user-attachments/assets/10e8b469-5199-45d3-8cab-a6bd178da2ca)
 
 **HealthBuddy+** is a modern, all-in-one wellness application designed to combat the fragmentation of health management **for Bolt Hackathon 2025!**. It brings together mood tracking, nutrition planning, community fitness challenges and personal care into a single, cohesive and user-friendly experience  — all in a beautiful UI! 🌟
 
@@ -76,4 +75,4 @@ To get a local copy up and running, follow these simple steps.
 
 You can view the live deployed version of our project here:
 
-**[https://your-netlify-url.netlify.app](https://your-netlify-url.netlify.app)** *(https://healthbuddyplus.netlify.app/)*
+**[https://healthbuddyplus.netlify.app/](https://healthbuddyplus.netlify.app/)**
