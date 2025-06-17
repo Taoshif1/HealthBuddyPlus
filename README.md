@@ -76,7 +76,7 @@ To get a local copy up and running, follow these simple steps.
 
 You can view the live deployed version of my project here: **[https://healthbuddyplus.netlify.app/](https://healthbuddyplus.netlify.app/)**
 
-🎬 YT Video - **[Health Buddy+ Video](https://youtu.be/r6qTsaFrNWk?si=n4vQ3AWLEhsl-AFx)**
+🎬 YT Video: **[Health Buddy+](https://youtu.be/r6qTsaFrNWk?si=n4vQ3AWLEhsl-AFx)**
 
 ---
 
