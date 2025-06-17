@@ -83,6 +83,8 @@ You can view the live deployed version of our project here:
 🎬 YT Video
 Click - [Health Buddy+ Video](https://youtu.be/r6qTsaFrNWk?si=n4vQ3AWLEhsl-AFx)
 
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
